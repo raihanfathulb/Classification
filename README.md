@@ -1,5 +1,6 @@
 # Classification
 Classification NHANES Age Prediction
-......
 <br>
-Raihan Fathul Bayan
+The dataset used in this analysis comes from the National Health and Nutrition Examination Survey (NHANES) in the United States, an initiative managed by the Centers for Disease Control and Prevention (CDC) through the National Center for Health Statistics (NCHS). NHANES is designed to collect comprehensive information about health and nutrition from various population groups, with a focus on adults and children. The data collection process involves direct interviews, physical examinations by medical teams, and laboratory tests that include blood and urine sampling.
+
+The goal of classifying this dataset is to predict or classify the age of respondents based on a subset of features selected from the NHANES dataset. By utilizing physiological data, lifestyle choices, and biochemical markers that are hypothesized to have a strong correlation with age, this analysis aims to understand the relationship between certain characteristics of respondents and their age. In other words, we are trying to develop a classification model that can predict a person's age group based on the information contained in the selected features. This understanding can provide deeper insights into how certain factors may relate to aging or age distribution within the population represented by the NHANES dataset.
